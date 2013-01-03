@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/576/trunk/pi_tutorials/pi_head_tracking_tutorial/bin
+END
+camshift_capture.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/576/trunk/pi_tutorials/pi_head_tracking_tutorial/bin/camshift_capture.py
+END
+camshift_node.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/485/trunk/pi_tutorials/pi_head_tracking_tutorial/bin/camshift_node.py
+END
+servo_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/469/trunk/pi_tutorials/pi_head_tracking_tutorial/bin/servo_config.py
+END
+robotis_joint_controller.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/469/trunk/pi_tutorials/pi_head_tracking_tutorial/bin/robotis_joint_controller.py
+END
+head_track_node.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/550/trunk/pi_tutorials/pi_head_tracking_tutorial/bin/head_track_node.py
+END
+test_vision_node.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/469/trunk/pi_tutorials/pi_head_tracking_tutorial/bin/test_vision_node.py
+END
+vision_node.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/515/trunk/pi_tutorials/pi_head_tracking_tutorial/bin/vision_node.py
+END
+camshift_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/515/trunk/pi_tutorials/pi_head_tracking_tutorial/bin/camshift_test.py
+END
+ros_to_cv.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/469/trunk/pi_tutorials/pi_head_tracking_tutorial/bin/ros_to_cv.py
+END

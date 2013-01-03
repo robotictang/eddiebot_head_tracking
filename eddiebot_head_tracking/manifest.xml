@@ -1,0 +1,19 @@
+<package>
+  <description brief="eddiebot_head_tracking">
+     Head Tracking for eddiebot Project to move the robot head toward the tracked human
+  </description>
+  <author>Tang Tiong Yew</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://</url>
+  <depend package="roscpp"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="rviz"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+  <depend package="uvc_cam"/>
+  <depend package="openni_camera"/>
+</package>
+
+

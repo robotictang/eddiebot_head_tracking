@@ -1,0 +1,49 @@
+!!python/object/new:dynamic_reconfigure.encoding.Config
+dictitems:
+  absolute_exposure: 2089
+  brightness: 200
+  camera_info_url: ''
+  camera_name: camera
+  contrast: 50
+  device: /dev/video1
+  exposure: 1
+  format_mode: 1
+  frame_id: /camera
+  frame_rate: 15.0
+  gain: 82
+  groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+    dictitems:
+      absolute_exposure: 2089
+      brightness: 200
+      camera_info_url: ''
+      camera_name: camera
+      contrast: 50
+      device: /dev/video1
+      exposure: 1
+      format_mode: 1
+      frame_id: /camera
+      frame_rate: 15.0
+      gain: 82
+      groups: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      height: 480
+      id: 0
+      name: Default
+      parameters: !!python/object/new:dynamic_reconfigure.encoding.Config
+        state: []
+      parent: 0
+      power_line_frequency: 0
+      saturation: 50
+      sharpness: 142
+      state: true
+      type: ''
+      white_balance_temperature: true
+      width: 640
+    state: []
+  height: 480
+  power_line_frequency: 0
+  saturation: 50
+  sharpness: 142
+  white_balance_temperature: true
+  width: 640
+state: []
